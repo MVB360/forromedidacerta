@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.1.7" apprev="20981" hassounds="0">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="212.443">
+      <start pan="-147.74" tilt="0.31847" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27933926" datetime="2024:12:20 23:10:50" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="212.443" streetviewlink="https://www.google.com/maps/@-26.2793393,-51.0513118,3a,75y,0.2h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkv9QACGCz!2e10" longitude="-51.05131184" description="" nodeid="node1" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="215.146" url="{node2}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.24904" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="152.883" url="{node13}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.76185" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="221.432">
+      <start pan="179.417" tilt="-0.0413638" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27930109" datetime="2024:12:20 23:11:46" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="221.432" streetviewlink="https://www.google.com/maps/@-26.2792924,-51.0513118,3a,75y,42.75h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERYRYkwWfkv9cAAla6!2e10" longitude="-51.05131385" description="" nodeid="node2" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="44.1353" url="{node1}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.24904" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="180.944" url="{node3}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.40669" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="223.456">
+      <start pan="179.444" tilt="0.0367243" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27926411" datetime="2024:12:20 23:12:17" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="223.456" streetviewlink="https://www.google.com/maps/@-26.2792557,-51.0512736,3a,75y,44.01h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkv9cAB3QW!2e10" longitude="-51.05127864" description="" nodeid="node3" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="362.968" url="{node2}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.40669" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="180.889" url="{node4}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.5832" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="215.92">
+      <start pan="174.324" tilt="-0.0233144" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27922713" datetime="2024:12:20 23:12:53" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="215.92" streetviewlink="https://www.google.com/maps/@-26.2792244,-51.0512381,3a,75y,41.6h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERYRYkwWfkv-QAA1AH!2e10" longitude="-51.05124076" description="" nodeid="node4" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="353.353" url="{node3}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.5832" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="174.291" url="{node5}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.232" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="212.21">
+      <start pan="169.599" tilt="-0.294022" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27919196" datetime="2024:12:20 23:13:06" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="212.21" streetviewlink="https://www.google.com/maps/@-26.279192,-51.0512059,3a,75y,42.61h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkv-UAAm67!2e10" longitude="-51.05120590" description="" nodeid="node5" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="350.581" url="{node4}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="5.232" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="169.559" url="{node6}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.63684" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="201.641">
+      <start pan="136.335" tilt="0.690096" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27916129" datetime="2024:12:20 23:13:19" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="201.641" streetviewlink="https://www.google.com/maps/@-26.2791613,-51.0511744,3a,75y,65.31h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERYRYkwWfkv-YABTbj!2e10" longitude="-51.05117439" description="" nodeid="node6" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="338.99" url="{node5}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.63684" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="136.282" url="{node7}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.48856" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-64.964">
+      <start pan="-97.4264" tilt="0.0433378" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27914446" datetime="2024:12:20 23:13:41" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="-64.964" streetviewlink="https://www.google.com/maps/@-26.2791445,-51.0511335,3a,75y,32.46h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkv_cADLF2!2e10" longitude="-51.05113347" description="" nodeid="node7" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="49.6768" url="{node6}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.48856" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="-98.4924" url="{node8}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.68955" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="210.896">
+      <start pan="178.621" tilt="-0.035116" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27911680" datetime="2024:12:20 23:14:39" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="210.896" streetviewlink="https://www.google.com/maps/@-26.2791168,-51.051113,3a,75y,32.28h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERYRYkwWfkv_YADi1A!2e10" longitude="-51.05111303" description="" nodeid="node8" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="357.368" url="{node7}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.68955" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="177.563" url="{node9}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.20032" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="224.922">
+      <start pan="88.8411" tilt="0.117563" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27908524" datetime="2024:12:20 23:15:08" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="224.922" streetviewlink="https://www.google.com/maps/@-26.2790852,-51.0510899,3a,75y,138.87h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERYRYkwWfkwAwADQie!2e10" longitude="-51.05108988" description="" nodeid="node9" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="371.589" url="{node8}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="4.20032" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="88.8936" url="{node10}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.94761" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-145.429">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27911079" datetime="2024:12:20 23:15:39" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="-145.429" streetviewlink="https://www.google.com/maps/@-26.2791108,-51.0510624,3a,75y,214.57h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkwBAADHwH!2e10" longitude="-51.05106239" description="" nodeid="node10" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-101.457" url="{node9}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.94761" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="1.68532" url="{node11}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.94062" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="204.714">
+      <start pan="-22.6961" tilt="0.16132" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27914055" datetime="2024:12:20 23:17:45" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="204.714" streetviewlink="https://www.google.com/maps/@-26.2791406,-51.0510838,3a,75y,227.41h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilW-xOk5WfkwBgAA9DJ!2e10" longitude="-51.05108385" description="" nodeid="node11" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="171.828" url="{node10}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.94062" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="337.816" url="{node12}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="12.0862" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-145.489">
+      <start pan="-7.53327" tilt="0.0361142" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27921482" datetime="2024:12:20 23:18:12" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="-145.489" streetviewlink="https://www.google.com/maps/@-26.2792148,-51.0511724,3a,75y,223.94h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkwB4ACFOq!2e10" longitude="-51.05117236" description="" nodeid="node12" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-192.387" url="{node11}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="12.0862" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="-7.27683" url="{node13}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="16.0018" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="1632" height="1632" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-124.203">
+      <start pan="-4.50368" tilt="0.358659" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata latitude="-26.27932212" datetime="2024:12:20 23:18:42" tags="1MEDIDACERTAPORTOUNIOSC" author="" comment="" source="" title="FORRO DE PVC MEDIDA CERTA" copyright="" info="" heading="-124.203" streetviewlink="https://www.google.com/maps/@-26.2793164,-51.0512736,3a,75y,236.39h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzawULlGfkwB8AC1dr!2e10" longitude="-51.05127931" description="" nodeid="node13" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" enabled="1" height="20" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-165.991" url="{node12}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="16.0018" skinid="ht_node" id="Point01" description=""/>
+      <hotspot pan="-3.76312" url="{node1}" title="FORRO DE PVC MEDIDA CERTA" target="$fwd" tilt="0" distance="3.76185" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" delay="none" blendtime="1" type="mesh" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" simulatemass="1" sensitivity="8" rubberband="0" hideabout="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" comment="" description="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
